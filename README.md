@@ -10,6 +10,6 @@ Python 3.10 or higher is recommended. Install the required dependencies listed i
 
 ## Replicating Results
 
-To replicate the experimental results, execute the notebook `https://github.com/StatsDL/RLCT/blob/main/example_A2C.ipynb`.
+To replicate the experimental results, execute the notebook `example_A2C.ipynb`.
 
 You can obtain the publicly available data used in this work. Note that datasets such as EUR/USD, USD/AUD, USD/GBP, USD/CNY, and USD/CAD require Yahoo Finance credentialing for access.
