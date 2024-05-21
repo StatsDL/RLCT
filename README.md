@@ -13,3 +13,9 @@ Python 3.10 or higher is recommended. Install the required dependencies listed i
 To replicate the experimental results, execute the notebook `example_A2C.ipynb`.
 
 You can obtain the publicly available data used in this work. Note that datasets such as EUR/USD, USD/AUD, USD/GBP, USD/CNY, and USD/CAD require Yahoo Finance credentialing for access.
+
+
+## Codes
+
+The Python codes are in two formats. The proposed methodologies and compared ones are in the main branch for univariates, while for multi-horizon, the codes are in a multivariable file.
+
