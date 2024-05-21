@@ -2,7 +2,7 @@
 
 This repository contains the implementation for Bhambu et al.'s paper "Conformal Time Series Forecasting using Reinforcement Learning", which has been submitted to NeurIPS 2024.
 
-The codebase extends upon the implementation for "Conformal time-series forecasting" (presented at NeurIPS 2021), originally available at https://github.com/kamilest/conformal-rnn under the BSD 3-clause license.
+The codebase extends upon the implementation for "Conformal time-series forecasting" (presented at NeurIPS 2021), originally available at https://github.com/kamilest/conformal-rnn.
 
 ## Installation
 
